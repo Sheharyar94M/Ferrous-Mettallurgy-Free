@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Ferrous Metallurgy Free</string>
+<!--    <string name="app_name">Metallurgy Premium Ads</string>-->
+    <string name="home">Home</string>
+
+    <string name="logout">Logout</string>
+    <string name="favourites">Favourites</string>
+    <string name="shares">Share</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="http">https://</string>
+
+    <string name="dummy">Selected Image</string>
+    <string name="download" />
+    <string name="bookmarked">Bookmarked</string>
+    <string name="downloadBooks">Downloaded PDF</string>
+    <string name="screenshot">Screenshot</string>
+    <string name="search">Search</string>
+    <string name="sampleText">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="_20">adhuashdausdbausdbasdbasdbasdbashdbashdbashdbahsdbhasbdahsbdhasbdhabdhasbdhasbdashbdhasbdhasbdahsbdhasbdhasbdhasbdhasbdhasbdhasbda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="App_Unit_ID_developers_dot_google_addmob">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!--  Google Admob Banner ad-->
+    <string name="Admob_banner_ad_Unit_Id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <!-- Facebook Ads-->
+    <string name="App_Unit_ID_developers_dot_facebook">328707182210505</string>
+    <!--    <string name="facebook_property_id_for_mediation">###############</string>   &lt;!&ndash; not in use yet &ndash;&gt;   481175616438805   ye real hy kisi client k account ki dont use it -->
+
+    <!--  Facebook Banner ad-->
+    <string name="Facebook_Banner_ad_Unit_Id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <!--   Facebook Interstitial ad-->
+    <string name="Facebook_interstitial_ad_unit_idPlacement">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="ebooks">Ebooks</string>
+
+</resources>

@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "361411161206",
+    "firebase_url": "https://my-ferrous-metallurgy-default-rtdb.firebaseio.com",
+    "project_id": "my-ferrous-metallurgy",
+    "storage_bucket": "my-ferrous-metallurgy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361411161206:android:084466015c054cf4368357",
+        "android_client_info": {
+          "package_name": "com.qsa.die_casting_free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361411161206-1n5gd1tk7ehi3oeheva4g3c3fonhnjje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPt3WgA4XIy0HpHUpZ_eyw_BNyJ8ZQiOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361411161206-1n5gd1tk7ehi3oeheva4g3c3fonhnjje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361411161206:android:1f74bc392a4d434b368357",
+        "android_client_info": {
+          "package_name": "com.qsa.ferrous_metallurgy_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361411161206-ca213ctnonqsum238635e4g6gqccfgi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qsa.ferrous_metallurgy_admin",
+            "certificate_hash": "346752532faa1e5f1099515d0f979066b617ceb8"
+          }
+        },
+        {
+          "client_id": "361411161206-1n5gd1tk7ehi3oeheva4g3c3fonhnjje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPt3WgA4XIy0HpHUpZ_eyw_BNyJ8ZQiOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361411161206-1n5gd1tk7ehi3oeheva4g3c3fonhnjje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361411161206:android:39009277d003a413368357",
+        "android_client_info": {
+          "package_name": "com.qsa.ferrous_metallurgy_free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361411161206-djl968guipt7np576jtaahpn1s0q99e6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qsa.ferrous_metallurgy_free",
+            "certificate_hash": "346752532faa1e5f1099515d0f979066b617ceb8"
+          }
+        },
+        {
+          "client_id": "361411161206-1n5gd1tk7ehi3oeheva4g3c3fonhnjje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPt3WgA4XIy0HpHUpZ_eyw_BNyJ8ZQiOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361411161206-1n5gd1tk7ehi3oeheva4g3c3fonhnjje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361411161206:android:c67d5d1bcc4b0654368357",
+        "android_client_info": {
+          "package_name": "com.qsa.ferrous_metallurgy_premium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361411161206-g42qmlvm8tvgl41oj6mdh2s1frnhj7v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qsa.ferrous_metallurgy_premium",
+            "certificate_hash": "346752532faa1e5f1099515d0f979066b617ceb8"
+          }
+        },
+        {
+          "client_id": "361411161206-1n5gd1tk7ehi3oeheva4g3c3fonhnjje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPt3WgA4XIy0HpHUpZ_eyw_BNyJ8ZQiOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361411161206-1n5gd1tk7ehi3oeheva4g3c3fonhnjje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
